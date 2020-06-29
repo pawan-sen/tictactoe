@@ -2,11 +2,10 @@
 the AI enabled Tic Tac Toe game
 
 ## Current Status:
-The game can only be played by two players and also there is no option to choose between X and O, player 1 by default will be assigned X
+The game can be played by two players or versus an AI but there is no option to choose between X and O, player 1 by default will be assigned X. Also a little bootstrap has been added but there are a few bugs
 
 ## Future Development
 - Option to take the desired outcome
-- Play with computer (MinMax Algorithm)
 - Better UI/UX for increased interactivity
 
 ### Contribution Guidelines
